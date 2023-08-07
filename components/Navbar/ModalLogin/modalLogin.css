@@ -1,0 +1,52 @@
+.btn-open-modal {
+    box-shadow: none !important;
+    background-color: #a9a9a9 !important;
+    color: #ffffff !important;
+    padding: 12px 20px !important;
+    font-size: 0.9em !important;
+    font-family: '__Inter_0ec1f4', '__Inter_Fallback_0ec1f4' !important;
+}
+
+.btn-open-modal:hover {
+    box-shadow: none !important;
+    background-color: #0089F3 !important;
+    color: white !important;
+}
+
+.nextui-c-iWjDFM .nextui-button-text {
+    column-gap: 5px;
+}
+
+.tittle-modal-login {
+    font-size: 1.5em;
+    line-height: 1.2em;
+    font-weight: 400x;
+}
+
+.tittle-modal-login span {
+    color: #0089F3;
+}
+
+.nextui-c-hdxYb {
+    color: transparent !important;
+    pointer-events: none !important;
+    background-color: transparent !important;
+}
+
+.icon-avion-login {
+    font-size: 25em;
+    position: absolute;
+    rotate: 60deg;
+    top: -75px;
+    left: -60px;
+    opacity: 0.04;
+}
+
+@media (max-width: 412px) {
+    .btn-open-modal {
+        box-shadow: none !important;
+        background-color: #a9a9a9 !important;
+        color: #ffffff !important;
+        padding: 12px 16px !important;
+    }
+}
